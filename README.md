@@ -1,7 +1,7 @@
-- 🔭 I’m currently working on: Building and backtesting strategies in both fixed income and equity markets
-- 🌱 I’m currently learning: Statistical methods for trading, factor modeling, cointegration, and Python-based portfolio analytics
-- 👯 I’m looking to collaborate on: Systematic trading research, yield curve strategies, and equity statistical arbitrage (especially in Nifty F&O)
-- 🤔 I’m transitioning from: Discretionary macro trading to research-driven, data-backed quantitative strategies
-- 💬 Ask me about: Yield curve strategies, z-score-based signals, DV01 scaling, equity pair trading, and backtesting workflows
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aditya3005) 
+- 🔭 I’m currently working on: Researching and backtesting systematic strategies in fixed income and equity markets
+- 🌱 I’m currently learning: Statistical modeling, portfolio analytics, and Python workflows for trading strategy development
+- 👯 I’m looking to collaborate on: Research projects involving data-driven market strategies, macro-modeling, or signal-based backtesting
+- 🤔 I’m focused on: Deepening market understanding and structuring trading ideas using quant tools
+- 💬 Ask me about: Fixed income and equity strategies, signal design, risk scaling, and building clean backtest frameworks
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aditya3005)
 - ⚡ Fun fact: My trades used to be gut-feel — now they wait for a signal, backtest approval, and maybe a coffee.
